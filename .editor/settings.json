@@ -1,0 +1,9 @@
+{
+  "autoSaveOnRun": false,
+  "autoClearTerminal": false,
+  "confirmBeforeReplace": true,
+  "confirmBeforeDelete": true,
+  "showHiddenFolders": false,
+  "ignoreNodeModules": true,
+  "hideBrowserBar": true
+}
